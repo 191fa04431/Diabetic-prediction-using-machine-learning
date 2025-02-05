@@ -1,6 +1,7 @@
-Diabetes Prediction Using Machine Learning
+# 𝗗𝗶𝗮𝗯𝗲𝘁𝗲𝘀 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗨𝘀𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 
-Project Overview
+Project Overview:
+
 This Streamlit-based web application predicts diabetes risk using machine learning, allowing users to input key health parameters and receive an instant prediction.
 
 🌟 Features
